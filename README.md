@@ -1,4 +1,4 @@
-# tic_tac_toe
+# Tic Tac Toe
 
 Tic Tac Toe game developed in Flutter.
 
